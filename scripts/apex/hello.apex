@@ -11,4 +11,3 @@ System.debug('My name is ' + tempvar);
 
 System.debug('Hello World!');
 
-System.debug('Branch2');
